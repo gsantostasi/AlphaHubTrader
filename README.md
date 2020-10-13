@@ -9,7 +9,11 @@ Read me the readme file for further instructions.
 
 Setup instrutions:
 
-3) Read "How to set up the Trader" file
+3) Read "Alpha Hub Trader Setup.pdf" file
+4) Good Trading
+5) Please report errors and bugs to giovanni@quantonomy.fund
+
+
 
 
 
