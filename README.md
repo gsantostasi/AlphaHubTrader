@@ -25,9 +25,12 @@ Read the readme.txt file for further instructions.
 2) Download and install the AlphaHubTrader.exe executable file. 
 3) Put in the same folder the AlphaHubTrader.exe, the splash.png and icon.ico files.
 4) Create a shortcut after installation so you can launch the Trader easily. 
-5) You can watch videos about the algorithm and the Alphahub platform starting with this video:
+5) You can watch videos discussing the trading algorithm in more details and the Alphahub platform starting with this video:
+
 https://www.youtube.com/watch?v=VVA-R0qbk7g&t=35s
+
 6) Please subcribe to our Youtube channel:
+
 https://www.youtube.com/channel/UCVQFo_2Xv-6t_KASIxEn4hw?view_as=subscriber
 
 Setup instructions:
