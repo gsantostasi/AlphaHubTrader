@@ -6,7 +6,7 @@ Installation Instructions:
 1) You need to download and install first MatLab RunTime (MyAppInstaller_web.exe). 
 Read the readme.txt file for further instructions. 
 2) Download and install the AlphaHubTrader.exe executable file. 
-3) Put in the same folder the AlphaHubTrader.exe, the splash and icon files.
+3) Put in the same folder the AlphaHubTrader.exe, the splash.png and icon.ico files.
 4) Create a shortcut after installation so you can launch the Trader easily. 
 5) You can watch videos about the algorith and the Alphahub platform starting with this video:
 https://www.youtube.com/watch?v=VVA-R0qbk7g&t=35s
