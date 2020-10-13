@@ -33,7 +33,7 @@ NOTE: You will need administrator rights to run MCRInstaller.
 
 Files to package for Standalone 
 ================================
--AlphaHubReader1.exe
+-AlphaHubTrader.exe
 -MCRInstaller.exe 
    -if end users are unable to download the MATLAB Runtime using the above  
     link, include it when building your component by clicking 
