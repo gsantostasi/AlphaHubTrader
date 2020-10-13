@@ -4,8 +4,8 @@ AlphaHub Trader Optimus1
 Installation Instructions:
 
 1) You need to download and install first MatLab RunTime (MyAppInstaller_web.exe). 
-Read me the readme file for further instructions. 
-2) Dowload and install the AlphaHubReader1 executable file. 
+Read the readme.txt file for further instructions. 
+2) Dowload and install the AlphaHubTrader.exe executable file. 
 
 Setup instrutions:
 
