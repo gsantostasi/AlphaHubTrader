@@ -22,8 +22,8 @@ However, you do need to download and install a free MatLab interpreter called Ma
 MatLab RunTime is needed to run MatLab executables. 
 Read the readme.txt file for further instructions.  
 
-2) Download and install the AlphaHubTrader.exe executable file. 
-3) Put in the same folder the AlphaHubTrader.exe, the splash.png and icon.ico files.
+2) Download and install the AlphaHubTraderA.exe executable file. 
+3) Put in the same folder the AlphaHubTraderA.exe, the splash.png and icon.ico files.
 4) Create a shortcut after installation so you can launch the Trader easily. 
 5) You can watch videos discussing the trading algorithm in more details and the Alphahub platform starting with this video:
 
@@ -40,7 +40,8 @@ Setup instructions:
 3) Please report errors and bugs to giovanni@quantonomy.fund
 
 
-
+Note: We updated the executable because the data was not stored correctly. 
+This new version (AlphaHubTraderA.exe) 10/14/2020 should correct the problem. 
 
 
 
