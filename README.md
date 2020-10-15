@@ -25,7 +25,7 @@ Read the readme.txt file for further instructions.
 2) Download and install the AlphaHubTraderA.exe executable file. 
 3) Put in the same folder the AlphaHubTraderA.exe, the splash.png and icon.ico files.
 4) Create a shortcut after installation so you can launch the Trader easily. 
-5) IMPORTANT: Create a folder in C:/ director called DataAlphaHubReader (the name needs to be exact). Download and move the file 
+5) IMPORTANT: Create a folder in the C:/ directory called DataAlphaHubReader (the name needs to be exact). Download and move the file 
 OPT1_C.xlsx in that folder (you can find the file among the list of files in the main page). 
 6) You can watch videos discussing the trading algorithm in more details and the Alphahub platform starting with this video:
 
