@@ -42,10 +42,15 @@ Setup instructions:
 3) Please report errors and bugs to giovanni@quantonomy.fund
 
 
-Note: We updated the executable because the data was not stored correctly. 
-This new version (AlphaHubTraderA.exe) 10/14/2020 should correct the problem. 
+Note:Last update is version AlphaHubTrader1_4.exe (10/20/2020)
 
-Setting up Server to Run the Trader app:
+Fixes:
+1) Added market close/open alert (now Trader trades only when US market is open)
+2) Fixed bug that capped trading at $2000 
+3) Minor design fixes. 
+
+
+Setting up a Server to Run the Trader app:
 
 You don't need a server to run the app, you can do this on your computer. But renting a free server with a window OS is ideal because you don't have to worry for power outage and other problems with yur computer. 
 You can download the app on the server and use a remote desktop application to check once in a while on the Trader. 
