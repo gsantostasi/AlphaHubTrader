@@ -22,8 +22,8 @@ However, you do need to download and install a free MatLab interpreter called Ma
 MatLab RunTime is needed to run MatLab executables. 
 Read the readme.txt file for further instructions.  
 
-2) Download and install the AlphaHubTrader1_4.exe executable file (updated 10/20/2020). 
-3) Put in the same folder the AlphaHubTrader1_4.exe, the splash.png and icon.ico files.
+2) Download and install the AlphaHubTrader1_6.exe executable file (updated 10/21/2020). 
+3) Put in the same folder the AlphaHubTrader1_6.exe, the splash.png and icon.ico files.
 4) Create a shortcut after installation so you can launch the Trader easily. 
 5) IMPORTANT: Create a folder in the C:/ directory called DataAlphaHubReader (the name needs to be exact). Download and move the file 
 OPT1_C.mat in that folder (you can find the file among the list of files in the main page). 
@@ -48,6 +48,9 @@ Fixes:
 1) Added market close/open alert (now Trader trades only when US market is open)
 2) Fixed bug that capped trading at $2000 
 3) Minor design fixes. 
+4) Fixed Typos.
+5) Now user can set max slippage for when the trader uses market order (if initial trade doesn't go through within 5 minutes)
+Order will not be executed if slippage is higher than max user slippage. 
 
 
 Setting up a Server to Run the Trader app:
