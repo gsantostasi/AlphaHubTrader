@@ -42,7 +42,7 @@ Setup instructions:
 3) Please report errors and bugs to giovanni@quantonomy.fund
 
 
-Note:Last update is version AlphaHubTrader1_4.exe (10/20/2020)
+Note:Last update is version AlphaHubTrader1_9.exe (11/04/2020)
 
 Fixes:
 1) Added market close/open alert (now Trader trades only when US market is open)
@@ -51,6 +51,8 @@ Fixes:
 4) Fixed Typos.
 5) Now user can set max slippage for when the trader uses market order (if initial trade doesn't go through within 5 minutes)
 Order will not be executed if slippage is higher than max user slippage. 
+6) Fixed timing issues
+8) Algo now produces an error log that is stored in the user created DataAlphaHubReader directory. 
 
 
 Setting up a Server to Run the Trader app:
