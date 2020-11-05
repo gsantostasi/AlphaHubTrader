@@ -22,8 +22,8 @@ However, you do need to download and install a free MatLab interpreter called Ma
 MatLab RunTime is needed to run MatLab executables. 
 Read the readme.txt file for further instructions.  
 
-2) Download and install the AlphaHubTrader1_8.exe executable file (updated 10/21/2020). 
-3) Put in the same folder the AlphaHubTrader1_8.exe, the splash.png and icon.ico files.
+2) Download and install the AlphaHubTrader1_11.exe executable file (updated 11/05/2020). 
+3) Put in the same folder the AlphaHubTrader1_11.exe, the splash.png and icon.ico files.
 4) Create a shortcut after installation so you can launch the Trader easily. 
 5) IMPORTANT: Create a folder in the C:/ directory called DataAlphaHubReader (the name needs to be exact). Download and move the file 
 OPT1_C.mat in that folder (you can find the file among the list of files in the main page). 
@@ -42,7 +42,7 @@ Setup instructions:
 3) Please report errors and bugs to giovanni@quantonomy.fund
 
 
-Note:Last update is version AlphaHubTrader1_10.exe (11/05/2020)
+Note:Last update is version AlphaHubTrader1_11.exe (11/05/2020)
 
 Fixes:
 1) Added market close/open alert (now Trader trades only when US market is open)
