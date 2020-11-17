@@ -1,6 +1,6 @@
 # AlphaHubTrader
 ![ScreenShot](https://github.com/gsantostasi/AlphaHubTrader/blob/main/Alpha.JPG)
-_AlphaHub Trader Optimus 1 & Minotaur 1_
+__AlphaHub Trader Optimus 1 & Minotaur 1__
 
 ![ScreenShot](https://github.com/gsantostasi/AlphaHubTrader/blob/main/Trader_11_16.PNG)
 
