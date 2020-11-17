@@ -26,7 +26,7 @@ Read the readme.txt file for further instructions.
 3) Put in the same folder the AlphaHubTrader1_14.exe, the splash.png and icon.ico files.
 4) Create a shortcut after installation so you can launch the Trader easily. 
 5) IMPORTANT: Create a folder in the C:/ directory called DataAlphaHubReader (the name needs to be exact). Download and move the file 
-OPT1_C.mat in that folder (you can find the file among the list of files in the main page). 
+OPT1_C.mat and Alpha.JPG in that folder (you can find the files among the list of files in the main page). 
 6) You can watch videos discussing the trading algorithm in more details and the Alphahub platform starting with this video:
 
 https://www.youtube.com/watch?v=VVA-R0qbk7g&t=35s
