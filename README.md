@@ -2,7 +2,7 @@
 ![ScreenShot](https://github.com/gsantostasi/AlphaHubTrader/blob/main/Alpha.JPG)
 AlphaHub Trader Optimus 1 & Minotaur 1
 
-![ScreenShot](https://github.com/gsantostasi/https://github.com/gsantostasi/AlphaHubTrader/blob/main/Trader_11_16.PNG)
+![ScreenShot](https://github.com/gsantostasi/AlphaHubTrader/blob/main/Trader_11_16.PNG)
 
 Introduction:
 
