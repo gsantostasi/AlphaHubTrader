@@ -4,7 +4,7 @@ __AlphaHub Trader Optimus 1 & Minotaur 1__
 
 ![ScreenShot](https://github.com/gsantostasi/AlphaHubTrader/blob/main/Trader_11_16.PNG)
 
-Introduction:
+__Introduction:__
 
 This App can be run on any Windows operating system machine. 
 It has a easy to use GUI with interactive features and graphical displays. 
@@ -19,7 +19,7 @@ https://alphahub.us/
 You also need to open a free account with the Alpaca Markets brokerage. 
 https://alpaca.markets/
 
-Installation Instructions:
+__Installation Instructions:__
 
 1) The App was created using MatLab but you don't need to have the MatLab software on your computer. 
 
@@ -63,7 +63,7 @@ Order will not be executed if slippage is higher than max user slippage.
 11) Added a candlestick graph for daily chosen stock
 
 
-Setting up a Server to Run the Trader app:
+__Setting up a Server to Run the Trader app:__
 
 You don't need a server to run the app, you can do this on your computer. But renting a free server with a window OS is ideal because you don't have to worry for power outage and other problems with yur computer. 
 You can download the app on the server and use a remote desktop application to check once in a while on the Trader. 
