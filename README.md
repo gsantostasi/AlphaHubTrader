@@ -1,5 +1,8 @@
 # AlphaHubTrader
+![ScreenShot](https://github.com/gsantostasi/AlphaHubTrader/blob/main/Alpha.JPG)
 AlphaHub Trader Optimus 1 & Minotaur 1
+
+![ScreenShot](https://github.com/gsantostasi/https://github.com/gsantostasi/AlphaHubTrader/blob/main/Trader_11_16.PNG)
 
 Introduction:
 
@@ -10,6 +13,8 @@ It allows automated trading via mirror trading using OPTMUS 1 & MINOTAUR 1 algor
 You will need to open an account with AlphaHub to use the Trader.
 
 https://alphahub.us/
+
+
 
 You also need to open a free account with the Alpaca Markets brokerage. 
 https://alpaca.markets/
@@ -72,6 +77,6 @@ https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12
 After first linking with the server you can dowload other remote desktop software if you prefer. 
 
 
-![ScreenShot](https://github.com/gsantostasi/AlphaHubTrader/blob/main/Alpha.JPG)
+
 
 
