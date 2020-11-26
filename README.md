@@ -45,7 +45,7 @@ Setup instructions:
 1) Read "Alpha Hub Trader Setup.pdf" file
 2) Good Trading
 3) Please report errors and bugs to giovanni@quantonomy.fund
-4) Once you signup for the AlphaHub signal service you will receive an invitation to join a Discord channel where we discuss daily the performance of the algorithms and our staff offers support service on a continuous basis (well, besides when we sleep). Most of us are in the US and we are avaialable to help members during waking hours. Please join our community and give us feedback and positive criticism. 
+4) Once you signup for the AlphaHub signal service you will receive an invitation to join a Discord channel where we discuss daily the performance of the algorithms and our staff offers support service on a continuous basis (well, besides when we sleep). Most of us are in the US and we are available to help members during waking hours. Please join our community and give us feedback and positive criticism. 
 
 Note: Last update is version AlphaHubTrader1_17.exe (11/23/2020)
 
