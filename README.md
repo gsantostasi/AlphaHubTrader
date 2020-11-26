@@ -7,7 +7,7 @@ __AlphaHub Trader Optimus 1 & Minotaur 1 (V1_17 11/23/2020)__
 __Introduction:__
 
 This App can be run on any Windows operating system machine. 
-It has a easy to use GUI with interactive features and graphical displays. 
+It has an easy to use GUI with interactive features and graphical displays. 
 
 It allows automated trading via mirror trading using Quantonomy OPTMUS 1 & MINOTAUR 1 algorithms featured on the Alphahub platform.
 You will need to open an account with AlphaHub to receive the daily signals and use the Trader.
