@@ -19,6 +19,10 @@ You also need to open a free account with the Alpaca Markets brokerage.
 
 https://alpaca.markets/
 
+IMPORTANT:
+
+Please read and agree the EULA that you can find in the Main folder: alphahub-trader-github-liability-statement.pdf. 
+
 __Installation Instructions:__
 
 1) The App was created using MatLab but you don't need to have the MatLab software on your computer. 
