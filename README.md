@@ -51,7 +51,7 @@ Setup instructions:
 3) Please report errors and bugs to giovanni@quantonomy.fund
 4) Once you signup for the AlphaHub signal service you will receive an invitation to join a Discord channel where we discuss daily the performance of the algorithms and our staff offers support service on a continuous basis (well, besides when we sleep). Most of us are in the US and we are available to help members during waking hours. Please join our community and give us feedback and positive criticism. 
 
-Note: Last update is version AlphaHubTrader1_18.exe (12/02/2020)
+Note: Last update is version AlphaHubTrader1_19.exe (12/14/2020)
 
 Fixes:
 1) Trader should not crash anymore when call to Alpaca fails. 
