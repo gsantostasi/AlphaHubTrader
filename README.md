@@ -1,6 +1,6 @@
 # AlphaHubTrader
 ![ScreenShot](https://github.com/gsantostasi/AlphaHubTrader/blob/main/Alpha.JPG)
-__AlphaHub Trader Optimus 1 & Minotaur 1 (V1_18 12/02/2020)__
+__AlphaHub Trader Optimus 1 & Minotaur 1 (V1_19 12/14/2020)__
 
 ![ScreenShot](https://github.com/gsantostasi/AlphaHubTrader/blob/main/Trader_11_16.PNG)
 
@@ -31,8 +31,8 @@ However, you do need to download and install a free MatLab interpreter called Ma
 MatLab RunTime is needed to run MatLab executables. 
 Read the readme.txt file for further instructions.  
 
-2) Download and install the AlphaHubTrader1_18.exe executable file (updated 12/02/2020). 
-3) Put in the same folder the AlphaHubTrader1_18.exe, the splash.png and icon.ico files.
+2) Download and install the AlphaHubTrader1_19.exe executable file (updated 12/02/2020). 
+3) Put in the same folder the AlphaHubTrader1_19.exe, the splash.png and icon.ico files.
 4) Create a shortcut after installation so you can launch the Trader easily. 
 5) IMPORTANT: Create a folder in the C:/ directory called DataAlphaHubReader (the name needs to be exact). Download and move the file 
 OPT1_C.mat and Alpha.JPG in that folder (you can find the files among the list of files in the main page). 
