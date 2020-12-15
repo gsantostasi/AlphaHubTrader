@@ -28,7 +28,8 @@ __Installation Instructions:__
 1) The App was created using MatLab but you don't need to have the MatLab software on your computer. 
 
 However, you do need to download and install a free MatLab interpreter called MatLab RunTime (MyAppInstaller_web.exe) that you can find in the main directory. 
-MatLab RunTime is needed to run MatLab executables. 
+MatLab RunTime is needed to run MatLab executables. For version compability reasons make sure to use the MyAppInstaller_web.exe in the main directory and do not directly download MatLab Runtime from the MatLab website. 
+
 Read the readme.txt file for further instructions.  
 
 2) Download and install the AlphaHubTrader1_20.exe executable file (updated 12/14/2020). 
