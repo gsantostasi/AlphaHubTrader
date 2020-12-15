@@ -21,7 +21,7 @@ https://alpaca.markets/
 
 IMPORTANT:
 
-Please read and agree the EULA that you can find in the Main folder: alphahub-trader-github-liability-statement.pdf. 
+Please read and agree with the EULA (it is assumed that you agree if you use the Trader, if you don't agree, please don't use it) that you can find in the Main folder: alphahub-trader-github-liability-statement.pdf. 
 
 __Installation Instructions:__
 
