@@ -16,8 +16,13 @@ https://alphahub.us/
 
 
 You also need to open a free account with the Alpaca Markets brokerage. 
+Eventually we will develop a Trader that can work with other brokerage accounts but the main reason we have developed the Trader for the Alpaca platform is that their API is easy to use, stable and straightfoward. They also offer their brokerage service without any fees. 
 
 https://alpaca.markets/
+
+More info here:
+
+https://medium.com/@AlpacaHQ
 
 IMPORTANT:
 
