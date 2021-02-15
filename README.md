@@ -71,7 +71,7 @@ Fixes:
 
 __Setting up a Server to Run the Trader app:__
 
-You don't need a server to run the app, you can do this on your computer. But renting a free server with a window OS is ideal because you don't have to worry for power outage and other problems with yur computer. 
+You don't need a server to run the app, you can do this on your computer. But renting a free server with a Windows OS is ideal because you don't have to worry for power outage and other problems with your computer. 
 You can download the app on the server and use a remote desktop application to check once in a while on the Trader. 
 
 1) Read the detailed document How to set up a free AWS server to run the Trader (Optional).pdf in the main download page. 
