@@ -68,6 +68,11 @@ Fixes:
 5) Fixed a bug related to extracting data from AlphaHub
 6) Trading time for Mino 1 is adjusted automatically
 
+NEW !
+
+Try the AlphaHub Signals Optimizer V1.1 (see list of files above)
+This new algo allows to trade signals from both Algos (Mino and Opti) with user chosen weights or use an algorithmic optmizer that choosed between the two algos based on recent performance. 
+This is a very early version so use with caution. 
 
 __Setting up a Server to Run the Trader app:__
 
