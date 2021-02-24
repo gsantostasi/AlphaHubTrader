@@ -40,8 +40,7 @@ Read the readme.txt file for further instructions.
 2) Download and install the AlphaHubTrader1_21.exe executable file (updated 2/5/2021). 
 3) Put in the same folder the AlphaHubTrader1_21.exe, the splash.png and icon.ico files.
 4) Create a shortcut after installation so you can launch the Trader easily. 
-5) IMPORTANT: Create a folder in the C:/ directory called DataAlphaHubReader (the name needs to be exact). Download and move the file 
-OPT1_C.mat and Alpha.JPG in that folder (you can find the files among the list of files in the main page). 
+5) IMPORTANT: Create a separate (from the one where you saved the AlphaHubTrader1_21.exe file) folder in the C:/ directory called DataAlphaHubReader (the name needs to be exact). Download and move the files OPT1_C.mat and Alpha.JPG in this folder (you can find the files among the list of files in the main page). 
 6) WARNING: If you want to test the paper account on Alpaca make sure you create keys for the paper account. If you then switch to the real account you need another set of keys for the real account (and same thing if you go from real to paper account). In other words, paper and real account have different sets of keys and you need to use the proper keys for the Trader to work. 
 7) You can watch videos discussing the trading algorithm in more details and the Alphahub platform starting with this video:
 
