@@ -69,7 +69,7 @@ Fixes:
 
 NEW !
 
-Try the AlphaHub Signals Optimizer V1_3 (AlphaHubOptm1_3.exe, see list of files above), updated on 2/24/2021.
+Try the AlphaHub Signals Optimizer V1_3 (AlphaHubOptm1_4.exe, see list of files above), updated on 2/25/2021.
 This new algo allows to trade signals from both Algos (Mino and Opti) with user chosen weights or use an algorithmic optmizer that choosed between the two algos based on recent performance. 
 This is a very early version so use with caution. Setup instructions are identical to single stock Trader. 
 
