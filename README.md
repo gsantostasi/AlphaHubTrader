@@ -73,6 +73,12 @@ Try the AlphaHub Signals Optimizer V1_3 (AlphaHubOptm1_4.exe, see list of files 
 This new algo allows to trade signals from both Algos (Mino and Opti) with user chosen weights or use an algorithmic optmizer that choosed between the two algos based on recent performance. 
 This is a very early version so use with caution. Setup instructions are identical to single stock Trader. 
 
+__Help with Setting Up:__
+If you need personal assistance hit me up on facebook or send me a personal message at gsantostasi@gmail.com. I would love to guide you through the above steps or give any assistance. Also please contact me if you find bugs or you have problems with the Trader. 
+My facebook contact is, send me a message and add me to your friend list if you like:
+
+https://www.facebook.com/gsantostasi/
+
 __Setting up a Server to Run the Trader app:__
 
 You don't need a server to run the app, you can do this on your computer. But renting a free server with a Windows OS is ideal because you don't have to worry for power outage and other problems with your computer. 
