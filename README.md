@@ -70,7 +70,7 @@ Fixes:
 NEW: OPTIMIZE BETWEEN ALGOS !
 
 Try the AlphaHub Signals Optimizer V1_5 (AlphaHubOptm1_5.exe, see list of files above), updated on 3/01/2021.
-This new algo allows to trade signals from both Algos (Mino and Opti) with user chosen weights or use an algorithmic optmizer that choosed between the two algos based on recent performance. 
+This new algo allows to trade signals from both Algos (Mino and Opti) with user chosen weights or allows an algorithmic optmizer that chooses between the two algos based on recent performance. 
 This is a very early version so use with caution. Setup instructions are identical to single stock Trader. 
 
 __Help with Setting Up:__
