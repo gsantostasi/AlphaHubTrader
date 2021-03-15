@@ -37,7 +37,7 @@ MatLab RunTime is needed to run MatLab executables. For version compability reas
 
 Read the readme.txt file for further instructions.  
 
-2) Download and install the AlphaHubTrader1_21.exe executable file (updated 2/5/2021). 
+2) Download and install the AlphaHubTrader1_21.exe executable file (fully stable version, updated 2/5/2021). 
 3) Put in the same folder (you can name it whatever you want) the AlphaHubTrader1_21.exe, the splash.png and icon.ico files.
 4) Create a shortcut after installation so you can launch the Trader easily. 
 5) IMPORTANT: Create a separate (from the one where you saved the AlphaHubTrader1_21.exe file) folder in the C:/ directory called DataAlphaHubReader (the name needs to be exact). Download and move the files OPT1_C.mat and Alpha.JPG in this folder (you can find the files among the list of files in the main page). 
@@ -71,7 +71,10 @@ NEW: OPTIMIZE BETWEEN ALGOS !
 
 Try the AlphaHub Signals Optimizer V1_9 (AlphaHubOptm1_9.exe, see list of files above), updated on 3/08/2021.
 This new algo allows to trade signals from both Algos (Mino and Opti) with user chosen weights or allows an algorithmic optmizer that chooses between the two algos based on recent performance. 
-This is a very early version so use with caution. Setup instructions are identical to single stock Trader. 
+This is a very early version so use with caution (not a fully stable version yet). Use Single Stock Trader AlphaHubTrader1_21.exe for stable version. 
+
+ Setup instructions are identical to single stock Trader. 
+ 
 One futher addition to this Trader is a report (that you can generate via push-button). Two reports in .pdf format would be created in the DataAlphaHubReader folder described above. One report shows the real performance of your Alpaca account vs the theoretical behavior of the algos, plus some other stats relative to you real account. The second report gives stats about slippage. Slippage is defined, for buy orders, as Slippage=(Execution Price-Suggested Price)/Suggested Price *100. This is reversed for sell orders. Sometime the Trader executes the trades at higher price that the one suggested by the algos and sometime we get better entries. In average this averages out but in general we have a small positive slippage that would affect (even if not by much), over a longer period of time, the efficiency of trades. You can check the amount of slippage in your account via the report. 
 Note:
 The Optimizer has 2 settings Manual (that allows you to choose weights by hand) and Optimzer (that selects the predicted best algo automatically). Please use the drop-down menu' to select desired setting.  
