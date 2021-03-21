@@ -98,7 +98,10 @@ https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12
 
 After first linking with the server you can dowload other remote desktop software if you prefer. 
 
+__Performance Graphs and Stats for the Algorithms :__
 
- https://htmlpreview.github.io/?https://htmlpreview.github.io/?https://github.com/blob/main/OutputOPTIMER3.html
+Optimizer: 
+
+https://htmlpreview.github.io/?https://github.com/gsantostasi/AlphaHubTrader/blob/main/OutputOPTIMER3.html
 
 
