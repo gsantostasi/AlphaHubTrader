@@ -8,9 +8,17 @@ __Performance Graphs and Stats for the Algorithms :__
 
 Check here the performance statistics of our AlphaHub Trading Algorithms. 
 
+Optimus1:
+
+https://htmlpreview.github.io/?https://github.com/gsantostasi/AlphaHubTrader/blob/main/OPTIMUS1.html
+
 Optimizer: 
 
 https://htmlpreview.github.io/?https://github.com/gsantostasi/AlphaHubTrader/blob/main/OPTIMIZER1.html
+
+Benchmark (for comparison), QQQ ETF (trading similar NASDAQ stocks as Quantonomy algos). 
+
+https://htmlpreview.github.io/?https://github.com/gsantostasi/AlphaHubTrader/blob/main/QQQ1.html
 
 
 __Introduction:__
