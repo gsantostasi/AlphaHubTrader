@@ -4,6 +4,15 @@ __AlphaHub Trader Optimus 1 & Minotaur 1 (V1_21 2/5/2021)__
 
 ![ScreenShot](https://github.com/gsantostasi/AlphaHubTrader/blob/main/Trader_11_16.PNG)
 
+__Performance Graphs and Stats for the Algorithms :__
+
+Check here the performance statistics of our AlphaHub Trading Algorithms. 
+
+Optimizer: 
+
+https://htmlpreview.github.io/?https://github.com/gsantostasi/AlphaHubTrader/blob/main/OutputOPTIMER3.html
+
+
 __Introduction:__
 
 This App can be run on any Windows operating system machine. 
@@ -98,10 +107,6 @@ https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12
 
 After first linking with the server you can dowload other remote desktop software if you prefer. 
 
-__Performance Graphs and Stats for the Algorithms :__
 
-Optimizer: 
-
-https://htmlpreview.github.io/?https://github.com/gsantostasi/AlphaHubTrader/blob/main/OutputOPTIMER3.html
 
 
