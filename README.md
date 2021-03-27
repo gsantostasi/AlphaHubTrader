@@ -16,7 +16,7 @@ Optimizer:
 
 https://htmlpreview.github.io/?https://github.com/gsantostasi/AlphaHubTrader/blob/main/OPTIMIZER1.html
 
-Benchmark (for comparison), QQQ ETF (trading similar NASDAQ stocks as Quantonomy algos). 
+Benchmark (for comparison), QQQ ETF (trading similar NASDAQ stocks as Quantonomy algos). QQQ is considered one of the top managed ETF in the world (we beat it easily). 
 
 https://htmlpreview.github.io/?https://github.com/gsantostasi/AlphaHubTrader/blob/main/QQQ1.html
 
