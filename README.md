@@ -67,6 +67,10 @@ https://www.youtube.com/watch?v=VVA-R0qbk7g&t=35s
 
 https://www.youtube.com/channel/UCVQFo_2Xv-6t_KASIxEn4hw?view_as=subscriber
 
+9) Medium article:
+
+https://giovannisantostasi.medium.com/400-returns-in-a-1-5-years-trading-a-nasdaq-100-stock-per-day-part-1-5a1f9a27cc17
+
 Setup instructions:
 
 1) Read "Alpha Hub Trader Setup.pdf" file
