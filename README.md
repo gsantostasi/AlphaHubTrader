@@ -23,6 +23,9 @@ https://htmlpreview.github.io/?https://github.com/gsantostasi/AlphaHubTrader/blo
 
 __Introduction:__
 
+WARNING: Do not use the version of the Trader that is diplayed by the MyAppInstaller_web.exe. Download directly the latest supported version AlphaHubTrader1_21.exe and run that version. Also check the Optimizer Trader,  Optimizer V1_9 as an alternative (see below). 
+
+
 This App can be run on any Windows operating system machine. 
 It has an easy to use GUI with interactive features and graphical displays. 
 
