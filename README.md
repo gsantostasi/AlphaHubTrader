@@ -21,11 +21,17 @@ Benchmark (for comparison), QQQ ETF (trading similar NASDAQ stocks as Quantonomy
 https://htmlpreview.github.io/?https://github.com/gsantostasi/AlphaHubTrader/blob/main/QQQ1.html
 
 
+
 __Introduction:__
 
 Check regularly for updates. Latest version is V1_23 4/29/2021. Also check the Optimizer Trader,  Optimizer V1_9 as an alternative (see below). 
 
-This App can be run on any Windows operating system machine. 
+Also please check our Community based AlphaHub Trader solutions (for an open source, alternative programming languages and support for other brokers):
+
+https://github.com/gsantostasi/AlphaHub-Trader-source-code
+
+
+The AlphaHub Trader App can be run on any Windows operating system machine. 
 It has an easy to use GUI with interactive features and graphical displays. 
 
 It allows automated trading via mirror trading using Quantonomy OPTMUS 1 & MINOTAUR 1 algorithms featured on the Alphahub platform.
