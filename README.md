@@ -26,7 +26,7 @@ __Introduction:__
 
 Check regularly for updates. Latest version is V1_23 4/29/2021. Also check the Optimizer Trader,  Optimizer V1_9 as an alternative (see below). 
 
-Also please check our Community based AlphaHub Trader solutions (for an open source, alternative programming languages and support for other brokers):
+Also please check our Community based AlphaHub Trader open-source solutions (different programming languages and support for other brokers):
 
 https://github.com/gsantostasi/AlphaHub-Trader-source-code
 
