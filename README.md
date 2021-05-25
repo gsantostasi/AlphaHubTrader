@@ -38,7 +38,7 @@ In that repository you will find also the algorithm that our R&D company uses ev
 https://github.com/alphahub-us/xylem/tree/589202bd3b0cd72fdcae69720ceb6660a884a3c8
 
 
-The AlphaHub Trader App is an additional resources that we make available to our members for free . It can be run on any Windows operating system machine. 
+The AlphaHub Trader App featured here is an additional resource that we make available to our members for free . It can be run on any Windows operating system machine. 
 It has an easy to use GUI with interactive features and graphical displays. 
 
 It allows automated trading via mirror trading using Quantonomy OPTMUS 1 & MINOTAUR 1 algorithms featured on the Alphahub platform.
