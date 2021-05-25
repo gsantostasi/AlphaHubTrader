@@ -31,10 +31,14 @@ Check regularly for updates. Latest version is V1_23 4/29/2021. Also check the O
 
 Also please check our Community based AlphaHub Trader open-source solutions (different programming languages and support for other brokers):
 
-https://github.com/gsantostasi/AlphaHub-Trader-source-code
+https://github.com/alphahub-us/AlphaHub_Community_Solutions
+
+In that repository you will find also the algorithm that our R&D company uses every day to do his own internal fund trading (so you can replicate our Trading perfectly if you use the Optimizer algo, that is the algo we use ourself):
+
+https://github.com/alphahub-us/xylem/tree/589202bd3b0cd72fdcae69720ceb6660a884a3c8
 
 
-The AlphaHub Trader App can be run on any Windows operating system machine. 
+The AlphaHub Trader App is an additional resources that we make available to our members for free . It can be run on any Windows operating system machine. 
 It has an easy to use GUI with interactive features and graphical displays. 
 
 It allows automated trading via mirror trading using Quantonomy OPTMUS 1 & MINOTAUR 1 algorithms featured on the Alphahub platform.
